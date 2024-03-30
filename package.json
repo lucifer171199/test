@@ -1,5 +1,5 @@
 {
-  "homepage":"https://lucifer171199/test"
+  "homepage":"https://lucifer171199.github.io/test"
   "private": true,
   "scripts": {
     "build": "next build",
