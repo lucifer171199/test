@@ -1,4 +1,5 @@
 {
+  "homepage":"https://lucifer171199/test"
   "private": true,
   "scripts": {
     "build": "next build",
